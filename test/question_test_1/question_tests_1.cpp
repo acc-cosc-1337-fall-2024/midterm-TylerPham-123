@@ -10,3 +10,8 @@ TEST_CASE("test")
 {
 	REQUIRE(test_config() == true);
 }
+
+TEST_CASE("Convert Celsius to Fahrenheit")
+{
+	REQUIRE(get_fahrenheit(37) == 98.6);
+}
