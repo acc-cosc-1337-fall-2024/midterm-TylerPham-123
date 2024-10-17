@@ -22,7 +22,7 @@ int main()
         cout << "Do you want to continue?(y/n) - ";
         cin >> answer;
 
-    }while (answer == 'y');
+    }while (answer != 'n');
     
     
    
