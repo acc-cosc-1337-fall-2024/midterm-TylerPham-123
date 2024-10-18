@@ -7,5 +7,5 @@ bool test_config()
 
 double get_fahrenheit (double Cel)
 {
-    return (((9.0/5.0) * (Cel*10) + 320)/10);
+    return ( ( (9.0/5.0) * (Cel*10) + (32*10) ) / 10 );
 }
