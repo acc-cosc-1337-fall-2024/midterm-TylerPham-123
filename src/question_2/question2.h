@@ -4,4 +4,4 @@ bool test_config();
 
 using std::string;
 
-bool is_palindrome(const string &pal);
+bool is_palindrome(const string &str);

@@ -11,7 +11,7 @@ int main()
 
     do
     {
-        cout << "This program will convert Celsius to Fahrenheit.\n";
+        cout << "***This program will convert Celsius to Fahrenheit.***\n";
         cout << "Please enter a Celsius degree - ";
         cin >> Cel;
     
